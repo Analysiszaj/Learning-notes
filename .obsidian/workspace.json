@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "4b28694b9831bec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "35cfb32b6369d0bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a1e9eae9ad9358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件/Linux/树莓派VNC远程桌面连接（简单记录）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "树莓派VNC远程桌面连接（简单记录）"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb1f52d120aeb8a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ae44748b6fe45cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1404cdc26192501f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1668e8ab1dbb01e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e1e9408e3e808c7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "077ad441ac36462c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6396756913480952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39bd907adcb43cbf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "软件/图形学/ImGui + stl_reader + OpenGL 加载模型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ImGui + stl_reader + OpenGL 加载模型 的反向链接列表"
+            }
+          },
+          {
+            "id": "5e7f02f33951325b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "软件/图形学/ImGui + stl_reader + OpenGL 加载模型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ImGui + stl_reader + OpenGL 加载模型 的出链列表"
+            }
+          },
+          {
+            "id": "d1f03dd365d780d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c22b5f50786d9ce2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "软件/图形学/ImGui + stl_reader + OpenGL 加载模型.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ImGui + stl_reader + OpenGL 加载模型 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b3a1e9eae9ad9358",
+  "lastOpenFiles": [
+    "软件/Linux/树莓派VNC远程桌面连接（简单记录）.md",
+    "软件/Linux/立创泰山派rk3566.md",
+    "软件/C++/vscode配置调试环境.md",
+    "软件/C++/vscode配置调试环境.pdf",
+    "软件/C++/Effective C++.md",
+    "images/c++/image-20250608135600330.png",
+    "images/c++/image-20250608135348347.png",
+    "images/c++/image-20250608133844647.png",
+    "images/c++/image-20250608133756806.png",
+    "images/c++/image-20250608132314121.png",
+    "images/c++/image-20250608132054030.png",
+    "images/c++/image-20250608131724260.png",
+    "images/c++/image-20250608131515959.png",
+    "images/c++/image-20250608131446774.png",
+    "images/c++/image-20250608130348857.png",
+    "images/c++",
+    "软件/图形学/OpenGL.md",
+    "软件/图形学/ImGui + stl_reader + OpenGL 加载模型.md",
+    "软件/源码阅读/SDRPlusPlus 源码阅读.md",
+    "软件/源码阅读",
+    "软件/C++/c++并发编程实战.md",
+    "软件/图形学/code/build/CMakeFiles/Progress/2",
+    "软件/图形学/code/build/CMakeFiles/first_demo.dir/main.cpp-42e5fc22.o.tmp",
+    "软件/图形学/code/build/CMakeFiles/Progress/1",
+    "软件/图形学/code/build/CMakeFiles/Progress/4",
+    "软件/图形学/code/build/CMakeFiles/Progress/3",
+    "软件/图形学/code/build/CMakeFiles/Progress/count.txt",
+    "软件/图形学/code/build/CMakeFiles/Progress",
+    "软件/图形学/code/3rdparty/glad-glad2/example/rust/gl-glfw-mx/README.md",
+    "软件/图形学/code/3rdparty/glad-glad2/example/rust/gl-glfw/README.md",
+    "软件/图形学/code/3rdparty/glad-glad2/test/README.md",
+    "软件/图形学/code/3rdparty/glad-glad2/long_description.md",
+    "软件/图形学/code/3rdparty/glad-glad2/README.md",
+    "软件/图形学/glad-glad2/example/rust/gl-glfw/README.md",
+    "软件/图形学/glad-glad2/example/rust/gl-glfw-mx/README.md",
+    "软件/图形学/glad-glad2/test/README.md",
+    "软件/图形学/glad-glad2/long_description.md",
+    "软件/图形学/glad-glad2/README.md",
+    "未命名.canvas",
+    "软件/图形学/理论知识.md",
+    "README.md"
+  ]
+}
