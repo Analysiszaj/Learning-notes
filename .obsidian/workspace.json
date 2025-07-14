@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件/Linux/树莓派VNC远程桌面连接（简单记录）.md",
+                "file": "软件/Linux/Linux开机自启动应用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "树莓派VNC远程桌面连接（简单记录）"
+              "title": "Linux开机自启动应用"
             }
           }
         ]
@@ -171,10 +171,11 @@
   "active": "b3a1e9eae9ad9358",
   "lastOpenFiles": [
     "软件/Linux/树莓派VNC远程桌面连接（简单记录）.md",
+    "软件/Linux/Linux开机自启动应用.md",
+    "软件/C++/Effective C++.md",
     "软件/Linux/立创泰山派rk3566.md",
     "软件/C++/vscode配置调试环境.md",
     "软件/C++/vscode配置调试环境.pdf",
-    "软件/C++/Effective C++.md",
     "images/c++/image-20250608135600330.png",
     "images/c++/image-20250608135348347.png",
     "images/c++/image-20250608133844647.png",
